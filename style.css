@@ -9,7 +9,7 @@
 }
 
 header{
-    max-width:1200px;
+    max-width:1100px;
     margin: 0 auto;
     display:flex;
     flex-direction: column;
@@ -34,18 +34,18 @@ ul{
 }
 
 .inBot{
-    display:flex;
-    flex-direction: column;
-    align-content: space-between;
-    gap:20px;
+    padding:0px 16px;
     margin:0;
 }
 
 img{
     padding:0px 50px;
-    max-width:400px;
+    max-width:700px;
     max-height:300px;
+    display:flex;
+    flex:0 0 500px;
 }
+
 
 header div{
     margin-bottom:100px;
